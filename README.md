@@ -7,6 +7,7 @@ De HTML elementen (de containers én items) die je moet uitlijnen, zijn al voor 
 Je kunt deze opdracht maken door het project te clonen of downloaden naar jouw eigen computer via deze GitHub repository. De uitwerkingen staan op de branch _uitwerkingen_.
 
 ## Opdracht 1
+
 ![Screenshot opdracht 1](assets/screenshot-opdracht-1.png)
 
 Open het HTML-document en bekijk de elementen. Zorg ervoor dat de items in `container-1` er net zo uit komen te zien als het voorbeeld, zonder aanpassingen te maken in de HTML. Je hoeft hier enkel en alleen Flexbox-properties voor te gebruiken. _Tip:_ de container is al voorzien van een vaste hoogte, dus hier hoef je geen rekening mee te houden.

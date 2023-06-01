@@ -1,1 +1,17 @@
-/*Schrijf hier jouw eigen CSS*/
+.container-1 {
+
+    /*FLEXBOX PROPERTIES OM MEE TE SPELEN*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}/*Schrijf hier jouw eigen CSS*/
+
+.container-2 {
+
+    /*FLEXBOX PROPERTIES OM MEE TE SPELEN*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}/*Schrijf hier jouw eigen CSS*/
